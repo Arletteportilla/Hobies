@@ -1,0 +1,22 @@
+
+body {
+background-color:rgb(246, 225, 167) ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.hobby{
+  margin-bottom: 20px;
+}
+
+.hobby img {
+ border-radius: 25px;
+  margin: 50 auto;
+  max-width: 300px;
+
+}
